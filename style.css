@@ -197,7 +197,7 @@ p {
 
 /*intro section*/
 #intro{
-	background-image: url(./images/back-img2.jpg);
+	background-image: url(back-img2.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
